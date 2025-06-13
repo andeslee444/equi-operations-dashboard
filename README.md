@@ -154,4 +154,4 @@ This project is proprietary to Equi and contains confidential information.
 
 ---
 
-Built with ❤️ for Equi's Operations Team
+Built with ❤️ for Equi's Operations Team 
