@@ -2,7 +2,7 @@
 
 A beautiful, modern operations dashboard for Equi - a multi-strategy hedge fund. Built with React, TypeScript, and Tailwind CSS, featuring real-time data visualization and a sophisticated dark theme inspired by 21st.dev's design aesthetic.
 
-🚀 **[View Live Demo](https://[YOUR-GITHUB-USERNAME].github.io/equi-operations-dashboard/)**
+🚀 **[View Live Demo](https://andeslee444.github.io/equi-operations-dashboard/)**
 
 ![Equi Dashboard Preview](https://via.placeholder.com/1200x600/0A0A0B/3B82F6?text=Equi+Operations+Dashboard)
 
@@ -68,7 +68,7 @@ Each department card displays:
 
 ```bash
 # Clone the repository
-git clone https://github.com/[YOUR-GITHUB-USERNAME]/equi-operations-dashboard.git
+git clone https://github.com/andeslee444/equi-operations-dashboard.git
 
 # Navigate to project directory
 cd equi-operations-dashboard
